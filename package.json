@@ -1,0 +1,15 @@
+{
+  "name": "diablo-bot",
+  "version": "6.7",
+  "description": "Bot WhatsApp D ¡ A B L O avec 150 commandes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0",
+    "moment": "^2.29.4"
+  }
+}
